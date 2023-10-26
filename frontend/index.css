@@ -1,9 +1,9 @@
 .portugol {
    
-    width: 50%;
-    height: 400px;
-    
+    width: 98%;
+    height: 601px;
     font-family: "Roboto Mono", monospace;
+    background-color: rgb(43, 40, 40);;
 }
 #enunciado {
     width: 50%;
